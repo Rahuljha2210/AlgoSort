@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AlgoSort/static/css/main.2b6c8fa2.css",
+    "main.js": "/AlgoSort/static/js/main.7e42654c.js",
+    "static/js/453.c3fe08cf.chunk.js": "/AlgoSort/static/js/453.c3fe08cf.chunk.js",
+    "index.html": "/AlgoSort/index.html",
+    "main.2b6c8fa2.css.map": "/AlgoSort/static/css/main.2b6c8fa2.css.map",
+    "main.7e42654c.js.map": "/AlgoSort/static/js/main.7e42654c.js.map",
+    "453.c3fe08cf.chunk.js.map": "/AlgoSort/static/js/453.c3fe08cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b6c8fa2.css",
+    "static/js/main.7e42654c.js"
+  ]
+}
